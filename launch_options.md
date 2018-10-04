@@ -1,0 +1,3 @@
+```
+-high -tickrate 128
+```
